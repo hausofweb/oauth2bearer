@@ -42,7 +42,7 @@
     "eslint": "^10.0.0",
     "got": "^14.4.2",
     "husky": "^9.1.4",
-    "prettier": "~3.9.0",
+    "prettier": "~3.10.0",
     "rimraf": "^6.0.1",
     "semantic-release": "^25.0.1",
     "tsup": "^8.2.4",
@@ -50,7 +50,7 @@
     "typescript": "^5.5.4",
     "vitest": "^2.0.5"
   },
-  "packageManager": "pnpm@9.6.0",
+  "packageManager": "pnpm@9.15.9",
   "engines": {
     "node": ">=16.0.0"
   },
